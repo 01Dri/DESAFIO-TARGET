@@ -1,0 +1,17 @@
+C:\Users\didvg\Documents\DesafioTargetImpl\DesafioTargetImpl\bin\Debug\net8.0\DesafioTargetImpl.exe
+C:\Users\didvg\Documents\DesafioTargetImpl\DesafioTargetImpl\bin\Debug\net8.0\DesafioTargetImpl.deps.json
+C:\Users\didvg\Documents\DesafioTargetImpl\DesafioTargetImpl\bin\Debug\net8.0\DesafioTargetImpl.runtimeconfig.json
+C:\Users\didvg\Documents\DesafioTargetImpl\DesafioTargetImpl\bin\Debug\net8.0\DesafioTargetImpl.dll
+C:\Users\didvg\Documents\DesafioTargetImpl\DesafioTargetImpl\bin\Debug\net8.0\DesafioTargetImpl.pdb
+C:\Users\didvg\Documents\DesafioTargetImpl\DesafioTargetImpl\obj\Debug\net8.0\DesafioTargetImpl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didvg\Documents\DesafioTargetImpl\DesafioTargetImpl\obj\Debug\net8.0\DesafioTargetImpl.AssemblyInfoInputs.cache
+C:\Users\didvg\Documents\DesafioTargetImpl\DesafioTargetImpl\obj\Debug\net8.0\DesafioTargetImpl.AssemblyInfo.cs
+C:\Users\didvg\Documents\DesafioTargetImpl\DesafioTargetImpl\obj\Debug\net8.0\DesafioTargetImpl.csproj.CoreCompileInputs.cache
+C:\Users\didvg\Documents\DesafioTargetImpl\DesafioTargetImpl\obj\Debug\net8.0\DesafioTargetImpl.dll
+C:\Users\didvg\Documents\DesafioTargetImpl\DesafioTargetImpl\obj\Debug\net8.0\refint\DesafioTargetImpl.dll
+C:\Users\didvg\Documents\DesafioTargetImpl\DesafioTargetImpl\obj\Debug\net8.0\DesafioTargetImpl.pdb
+C:\Users\didvg\Documents\DesafioTargetImpl\DesafioTargetImpl\obj\Debug\net8.0\DesafioTargetImpl.genruntimeconfig.cache
+C:\Users\didvg\Documents\DesafioTargetImpl\DesafioTargetImpl\obj\Debug\net8.0\ref\DesafioTargetImpl.dll
+C:\Users\didvg\Documents\DesafioTargetImpl\DesafioTargetImpl\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\didvg\Documents\DesafioTargetImpl\DesafioTargetImpl\obj\Debug\net8.0\DesafioTargetImpl.csproj.AssemblyReference.cache
+C:\Users\didvg\Documents\DesafioTargetImpl\DesafioTargetImpl\obj\Debug\net8.0\DesafioT.503D7020.Up2Date
